@@ -1,10 +1,11 @@
 # Netflix-Data-Analysis
 Exploratory Data Analysis (EDA) of the Netflix dataset using Python, Pandas, NumPy, and Matplotlib to uncover insights on content distribution, ratings, duration, and release trends.
 
+---
 ##  Dataset
 - Source: **Kaggle**
 - Dataset: **Netflix Titles Dataset**
-
+---
 ## Libraries Used
 - NumPy  
 - Pandas  
@@ -17,7 +18,7 @@ The following data preprocessing steps were performed to ensure data quality and
 - Filtered data to separate Movies and TV Shows  
 - Converted movie duration from string format to integer values  
 - Cleaned and formatted columns for analysis  
-
+---
 ## Data Visualization
 The following visualizations were created to analyze Netflix data:
 
@@ -27,7 +28,7 @@ The following visualizations were created to analyze Netflix data:
 - Scatter plot: Release year vs number of shows  
 - Horizontal bar chart: Top 10 countries by number of shows  
 - Line plots: Comparison of Movies and TV Shows released over the years  
-
+---
 ## Learning from the Project
 Through this project, the following concepts were learned and strengthened:
 
