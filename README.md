@@ -19,6 +19,7 @@ The following data preprocessing steps were performed to ensure data quality and
 - Converted movie duration from string format to integer values  
 - Cleaned and formatted columns for analysis  
 ---
+
 ## Data Visualization
 The following visualizations were created to analyze Netflix data:
 
@@ -29,6 +30,7 @@ The following visualizations were created to analyze Netflix data:
 - Horizontal bar chart: Top 10 countries by number of shows  
 - Line plots: Comparison of Movies and TV Shows released over the years  
 ---
+
 ## Learning from the Project
 Through this project, the following concepts were learned and strengthened:
 
