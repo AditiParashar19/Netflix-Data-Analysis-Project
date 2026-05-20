@@ -11,6 +11,7 @@ Exploratory Data Analysis (EDA) of the Netflix dataset using Python, Pandas, Num
 - Pandas  
 - Matplotlib  
 
+---
 ## Data Pre-Processing
 The following data preprocessing steps were performed to ensure data quality and consistency:
 
