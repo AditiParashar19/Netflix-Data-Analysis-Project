@@ -40,3 +40,4 @@ Through this project, the following concepts were learned and strengthened:
 - Data visualization using Matplotlib  
 - Interpreting trends and patterns from visual data  
 
+---
