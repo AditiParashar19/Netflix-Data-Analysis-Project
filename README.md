@@ -18,7 +18,7 @@ The following data preprocessing steps were performed to ensure data quality and
 - Dropped records with missing values in key columns (type, release_year, rating, country, duration)  
 - Filtered data to separate Movies and TV Shows  
 - Converted movie duration from string format to integer values  
-- Cleaned and formatted columns for analysis  
+- Cleaned and formatted columns for analysis 
 ---
 
 ## Data Visualization
